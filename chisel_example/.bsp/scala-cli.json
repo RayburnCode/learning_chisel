@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/opt/homebrew/bin/scala-cli",
+    "bsp",
+    "--json-options",
+    "/Users/DylanRayburn/Documents/GitHub/learning_chisel/chisel_example/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/Users/DylanRayburn/Documents/GitHub/learning_chisel/chisel_example/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/Users/DylanRayburn/Documents/GitHub/learning_chisel/chisel_example/.scala-build/ide-envs.json",
+    "/Users/DylanRayburn/Documents/GitHub/learning_chisel/chisel_example/chisel-example.scala"
+  ],
+  "version": "1.10.0",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
