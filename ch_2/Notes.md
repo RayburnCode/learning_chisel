@@ -58,3 +58,13 @@ val logic = (a & b) | c
 4. val mul = a \* b // multiplication
 5. val div = a / b // division
 6. val mod = a % b // modulo operation
+
+### 2.2.1 Multiplexer
+
+- A multiplexer (Mux) is a circuit that selects between alternatives.
+
+```scala
+val result = Mux(sel , a, b)
+```
+
+## 2.3 Registers
