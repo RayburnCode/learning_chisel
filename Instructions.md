@@ -19,6 +19,12 @@ Verilog vs SystemVerilog
 
 Mac
 
+1. Installing Scala
+
+```homebrew
+brew install coursier/formulas/coursier && cs setup
+```
+
 ```homebrew
 brew install sbt git
 ```
